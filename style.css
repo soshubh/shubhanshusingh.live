@@ -4,11 +4,13 @@
 body{
     background-image: url('./Background.svg');
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
+    background-size: 100% auto;
     background-color: rgb(255, 255, 255);
 }
 .first{
-    margin: 250px;
-    font-size: 40px;
+    margin-top: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 30px;
     font-family: 'Great Vibes', cursive;
 }
